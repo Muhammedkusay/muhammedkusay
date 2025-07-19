@@ -14,7 +14,7 @@ A passionate Software Engineer focused on Web Development and building modern, u
 </p>
 
 ## 🛠 Projects
-- 💼 [Real Estate Web App](https://github.com/muhammedkusay/EmlakBul)
+- 💼 [Real Estate Web App](https://github.com/muhammedkusay/EmlakBul/tree/master)
 - 🏋 [Gym Web App](https://github.com/muhammedkusay/GymApp)
 - 📰 [Meidum Colne Web App](https://github.com/muhammedkusay/medium)
 
