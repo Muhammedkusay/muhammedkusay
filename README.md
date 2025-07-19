@@ -9,8 +9,8 @@ A passionate Software Engineer focused on Web Development and building modern, u
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamadhamado&show_icons=true&theme=default" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadhamado&theme=default" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedkusay&show_icons=true&theme=default" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkusay&theme=default" width="49%" />
 </p>
 
 ## 🛠 Projects
