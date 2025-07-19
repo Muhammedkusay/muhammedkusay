@@ -13,6 +13,9 @@ A passionate Software Engineer focused on Web Development and building modern, u
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkusay&theme=default" width="49%" />
 </p>
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkusay&layout=compact&theme=radical&langs_count=6&hide=css,scss)
+
 ## 🛠 Projects
 - 💼 [Real Estate Web App](https://github.com/muhammedkusay/EmlakBul/tree/master)
 - 🏋 [Gym Web App](https://github.com/muhammedkusay/GymApp)
