@@ -23,4 +23,13 @@ A passionate Software Engineer focused on Web Development and building modern, u
 - LinkedIn: [Muhammed Kusay](https://www.linkedin.com/in/muhammed-kusay-hamdo-5b1aa7310/)
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Html](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=html&logoColor=white)
+![Css](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind Css](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Php](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=git&logoColor=white)
+![mySql](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
