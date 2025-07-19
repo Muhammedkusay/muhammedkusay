@@ -14,9 +14,9 @@ A passionate Software Engineer focused on Web Development and building modern, u
 </p>
 
 ## 🛠 Projects
-- 💼 [Real Estate Web App](https://github.com/EmlakBul)
-- 🏋 [Gym Web App](https://github.com/GymApp)
-- 📰 [Meidum Colne Web App](https://github.com/medium)
+- 💼 [Real Estate Web App](https://github.com/muhammedkusay/EmlakBul)
+- 🏋 [Gym Web App](https://github.com/muhammedkusay/GymApp)
+- 📰 [Meidum Colne Web App](https://github.com/muhammedkusay/medium)
 
 ## 📫 Contact
 - Email: hamdo.kusay@gmail.com
