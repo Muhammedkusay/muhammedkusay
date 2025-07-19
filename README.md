@@ -19,7 +19,7 @@ A passionate Software Engineer focused on Web Development and building modern, u
 ## 🛠 Projects
 - 💼 [Real Estate Web App](https://github.com/muhammedkusay/EmlakBul/tree/master)
 - 🏋 [Gym Web App](https://github.com/muhammedkusay/GymApp)
-- 📰 [Meidum Colne Web App](https://github.com/muhammedkusay/medium)
+- 📰 [Meidum Colne Web App](https://github.com/muhammedkusay/Medium-clone)
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
