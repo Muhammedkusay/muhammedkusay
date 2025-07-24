@@ -12,11 +12,11 @@ A passionate Software Engineer focused on Web Development and building modern, u
 ## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammedkusay&show_icons=true&theme=dark" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkusay&theme=dark" width="49%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkusay&theme=dark" width="49%" /> -->
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkusay&layout=compact&theme=dark&langs_count=6&hide=css,scss" width="49%" height="fit-content">
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkusay&layout=compact&theme=dark&langs_count=6&hide=css,scss)
 
 ## 🛠 Projects
 - 💼 [Real Estate Web App](https://github.com/muhammedkusay/EmlakBul/tree/master)
