@@ -1,5 +1,5 @@
 # Hi, I'm Muhamad 👋
-A passionate Software Engineer focused on Web Development and building modern, useful tools.
+A passionate Software Engineer focused on Web Development and building modern & useful tools.
 
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedkusay&label=Profile%20views&color=0e75b6&style=flat" alt="oms83" /> </p> -->
 
