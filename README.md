@@ -40,5 +40,6 @@ A passionate Software Engineer focused on Web Development and building modern & 
 ## Contact
 - Email: hamdo.kusay@gmail.com
 - LinkedIn: [Muhammed Kusay](https://www.linkedin.com/in/muhammed-kusay-hamdo-5b1aa7310/)
+- My Portfolio: <a href="https://kusay.netlify.app">kusay.netlify.app</a>
 
 
