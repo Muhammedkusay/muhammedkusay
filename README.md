@@ -2,19 +2,10 @@
 A passionate Software Engineer focused on Web Development and building modern & useful tools.
 
 ## Skills
-**Languages:** PHP, JavaScript, HTML, CSS  
-**Frameworks:** Laravel, React.js, Tailwind CSS  
-**Tools:** Git, MySQL, VS Code  
-**Other Languages:** C, Java, Python 
-
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedkusay&show_icons=true&theme=dark" width="42%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkusay&theme=dark" width="44.5%" />
-</p>
-
-## Most Used Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkusay&layout=compact&theme=dark&langs_count=6&hide=css,scss" width="32%">
+* **Backend Development:** PHP, Laravel, Artisan CLI, Eloquent ORM, Python, Java, C++, C
+* **Frontend Development:** JavaScript, React.js, HTML5, CSS3, Tailwind CSS
+* **Databases & ORM:** PostgreSQL, MySQL, SQLite, Relational Databases
+* **Tools & Environment:** Npm, Unix/Linux, Git & GitHub
 
 ## Projects
 - [Real Estate Web App](https://github.com/muhammedkusay/EmlakBul/tree/master)
