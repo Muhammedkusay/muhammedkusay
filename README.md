@@ -11,7 +11,7 @@ A passionate Software Engineer focused on Web Development and building modern & 
 - [Real Time Micro Air Vehicle Telemetry App](https://github.com/Muhammedkusay/Micro-Air-Vehicle-Telemetry)
 - [Real Estate Web App](https://github.com/muhammedkusay/EmlakBul/tree/master)
 - [Project Management System](https://github.com/muhammedkusay/taskflow)
-- [Meidum Colne Web App](https://github.com/muhammedkusay/Medium-clone)
+- [Meidum Clone Web App](https://github.com/muhammedkusay/Medium-clone)
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
